@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Frontend**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next JS**
 
 - 📚 I’m currently studying at **Baku Engineering University**
 
-- 💬 Ask me about **HTML,CSS,JavaScript**
+- 💬 Ask me about **HTML,CSS,JavaScript,React**
 
 - 📫 How to reach me **javidangrbnl@gmail.com**
 
