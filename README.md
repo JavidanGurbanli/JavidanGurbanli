@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **javidangrbnl@gmail.com**
 
-<h3 align="left">Connect with me: <img  width="100" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"></h3>
+<h3 align="left">Connect with me: <img  width="100" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" style="transform: translateY(50px)"></h3>
 <p align="left">
 <a href="https://twitter.com/CavidanQurbanl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cavidan23923686" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/javidangurbanli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javidangurbanli" height="30" width="40" /></a>
