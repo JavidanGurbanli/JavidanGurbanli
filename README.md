@@ -40,8 +40,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="next js" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-stats-all.vercel.app/api/top-langs?username=javidangurbanli&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="javidangurbanli"/></p>
+<p><img align="left" src="https://github-stats-new.vercel.app/api/top-langs?username=javidangurbanli&show_icons=true&locale=en&layout=pie&theme=transparent" alt="javidangurbanli"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javidangurbanli&show_icons=true&locale=en&theme=github_dark" alt="javidangurbanli" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-new.vercel.app/api?username=javidangurbanli&show_icons=true&locale=en&theme=transparent&rank_icon=github" alt="javidangurbanli" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=javidangurbanli&theme=github_dark" alt="javidangurbanli" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=javidangurbanli&theme=transparent" alt="javidangurbanli" /></p>
