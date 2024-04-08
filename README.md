@@ -10,7 +10,7 @@
 
 - 📚 I’m currently studying at **Baku Engineering University**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React, Next JS**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Next JS**
 
 - 📫 How to reach me **javidangrbnl@gmail.com**
 
