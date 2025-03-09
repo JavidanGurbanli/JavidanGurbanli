@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javidan</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img  alt="Coding" width="400"  align="right" src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Coder GIF" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javidangurbanli&label=Profile%20views&color=0e75b6&style=flat" alt="javidangurbanli" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📚 I’m currently studying at **Baku Engineering University**
+- 📚 I’m currently studying at **Azerbaijan Technical University**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Next JS**
 
@@ -39,9 +39,3 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/nextjs/images/abcffb25-b56d-475f-9c82-26818776dc33.svg" alt="git" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="next js" width="40" height="40"/> </a>
 </p>
-
-<p><img align="left" src="https://github-stats-new.vercel.app/api/top-langs?username=javidangurbanli&show_icons=true&locale=en&layout=pie&theme=transparent" alt="javidangurbanli"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-stats-new.vercel.app/api?username=javidangurbanli&show_icons=true&locale=en&theme=transparent&rank_icon=github" alt="javidangurbanli" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=javidangurbanli&theme=transparent" alt="javidangurbanli" /></p>
